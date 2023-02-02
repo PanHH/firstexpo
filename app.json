@@ -12,7 +12,8 @@
       "backgroundColor": "#ffffff"
     },
     "updates": {
-      "fallbackToCacheTimeout": 0
+      "fallbackToCacheTimeout": 0,
+      "url": "https://u.expo.dev/329342b8-8498-4a25-bb56-c543a6c1ae3c"
     },
     "assetBundlePatterns": [
       "**/*"
@@ -24,7 +25,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.pub.firstexpo"
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -34,6 +36,9 @@
         "projectId": "329342b8-8498-4a25-bb56-c543a6c1ae3c"
       }
     },
-    "owner": "panxq0809"
+    "owner": "panxq0809",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    }
   }
 }
